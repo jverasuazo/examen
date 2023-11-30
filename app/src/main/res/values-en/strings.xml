@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agregar">Add place</string>
+    <string name="ver">Show places</string>
+    <string name="inicio">Home</string>
+    <string name="ubicacion">Show location</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">examen</string>
+    <string name="agregar">Agregar mas lugares</string>
+    <string name="ver">Ver lugares</string>
+    <string name="inicio">Inicio</string>
+    <string name="ubicacion">Mostrar ubicacion</string>
+    <string name="title_activity_ubicacion">UbicacionActivity</string>
+    <string name="title_activity_camara">CamaraActivity</string>
+</resources>
